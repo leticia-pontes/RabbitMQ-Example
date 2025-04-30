@@ -9,6 +9,8 @@ Este projeto demonstra uma solução com **RabbitMQ** para comunicação entre s
 
 ## 🚀 Como Executar
 
+OBS.: inclua sua URI do RabbitMQ (amqps) nas classes Publisher.cs e Subscriber.cs.
+
 1. **Inicie a API** (`ConsumerApi`), que estará ouvindo requisições para salvar os dados no banco.
 2. **Inicie o Subscriber** (`RabbitMQ.Subscriber`), que ficará escutando a fila RabbitMQ e enviando os dados para a API.
 3. **Inicie o Publisher** (`RabbitMQ.Publisher`), que envia mensagens JSON para a fila.
