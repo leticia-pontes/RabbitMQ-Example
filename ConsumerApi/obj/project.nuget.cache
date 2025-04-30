@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MECT+kyy6j8=",
+  "dgSpecHash": "DlU28BVznaA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\letic\\Desktop\\Unimar\\Arquitetura\\RabbitMQ\\ConsumerApi\\ConsumerApi.csproj",
+  "projectFilePath": "C:\\Users\\letic\\Desktop\\Unimar\\Arquitetura\\ConsumerApi\\ConsumerApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\letic\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\letic\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

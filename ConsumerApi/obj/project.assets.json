@@ -3191,11 +3191,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\letic\\Desktop\\Unimar\\Arquitetura\\RabbitMQ\\ConsumerApi\\ConsumerApi.csproj",
+      "projectUniqueName": "C:\\Users\\letic\\Desktop\\Unimar\\Arquitetura\\ConsumerApi\\ConsumerApi.csproj",
       "projectName": "ConsumerApi",
-      "projectPath": "C:\\Users\\letic\\Desktop\\Unimar\\Arquitetura\\RabbitMQ\\ConsumerApi\\ConsumerApi.csproj",
+      "projectPath": "C:\\Users\\letic\\Desktop\\Unimar\\Arquitetura\\ConsumerApi\\ConsumerApi.csproj",
       "packagesPath": "C:\\Users\\letic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\letic\\Desktop\\Unimar\\Arquitetura\\RabbitMQ\\ConsumerApi\\obj\\",
+      "outputPath": "C:\\Users\\letic\\Desktop\\Unimar\\Arquitetura\\ConsumerApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\letic\\AppData\\Roaming\\NuGet\\NuGet.Config"

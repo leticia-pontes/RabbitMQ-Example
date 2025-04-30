@@ -30,3 +30,4 @@ C:\Users\letic\Desktop\Unimar\Arquitetura\RabbitMQ.Subscriber\RabbitMQ.Subscribe
 C:\Users\letic\Desktop\Unimar\Arquitetura\RabbitMQ.Subscriber\RabbitMQ.Subscriber\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\letic\Desktop\Unimar\Arquitetura\RabbitMQ.Subscriber\RabbitMQ.Subscriber\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\letic\Desktop\Unimar\Arquitetura\RabbitMQ.Subscriber\RabbitMQ.Subscriber\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\letic\Desktop\Unimar\Arquitetura\RabbitMQ.Subscriber\RabbitMQ.Subscriber\obj\Debug\net8.0\RabbitMQ.Subscriber.sourcelink.json

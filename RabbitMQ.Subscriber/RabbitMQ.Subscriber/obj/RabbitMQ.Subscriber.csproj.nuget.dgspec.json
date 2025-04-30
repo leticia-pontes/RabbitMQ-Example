@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\letic\\Desktop\\Unimar\\Arquitetura\\RabbitMQ\\RabbitMQ.Subscriber\\RabbitMQ.Subscriber\\RabbitMQ.Subscriber.csproj": {}
+    "C:\\Users\\letic\\Desktop\\Unimar\\Arquitetura\\RabbitMQ.Subscriber\\RabbitMQ.Subscriber\\RabbitMQ.Subscriber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\letic\\Desktop\\Unimar\\Arquitetura\\RabbitMQ\\RabbitMQ.Subscriber\\RabbitMQ.Subscriber\\RabbitMQ.Subscriber.csproj": {
+    "C:\\Users\\letic\\Desktop\\Unimar\\Arquitetura\\RabbitMQ.Subscriber\\RabbitMQ.Subscriber\\RabbitMQ.Subscriber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\letic\\Desktop\\Unimar\\Arquitetura\\RabbitMQ\\RabbitMQ.Subscriber\\RabbitMQ.Subscriber\\RabbitMQ.Subscriber.csproj",
+        "projectUniqueName": "C:\\Users\\letic\\Desktop\\Unimar\\Arquitetura\\RabbitMQ.Subscriber\\RabbitMQ.Subscriber\\RabbitMQ.Subscriber.csproj",
         "projectName": "RabbitMQ.Subscriber",
-        "projectPath": "C:\\Users\\letic\\Desktop\\Unimar\\Arquitetura\\RabbitMQ\\RabbitMQ.Subscriber\\RabbitMQ.Subscriber\\RabbitMQ.Subscriber.csproj",
+        "projectPath": "C:\\Users\\letic\\Desktop\\Unimar\\Arquitetura\\RabbitMQ.Subscriber\\RabbitMQ.Subscriber\\RabbitMQ.Subscriber.csproj",
         "packagesPath": "C:\\Users\\letic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\letic\\Desktop\\Unimar\\Arquitetura\\RabbitMQ\\RabbitMQ.Subscriber\\RabbitMQ.Subscriber\\obj\\",
+        "outputPath": "C:\\Users\\letic\\Desktop\\Unimar\\Arquitetura\\RabbitMQ.Subscriber\\RabbitMQ.Subscriber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\letic\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -36,9 +36,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -68,30 +67,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\letic\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

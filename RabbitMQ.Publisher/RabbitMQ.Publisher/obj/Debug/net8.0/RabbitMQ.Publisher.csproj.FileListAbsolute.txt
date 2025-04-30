@@ -20,3 +20,4 @@ C:\Users\letic\Desktop\Unimar\Arquitetura\RabbitMQ.Publisher\RabbitMQ.Publisher\
 C:\Users\letic\Desktop\Unimar\Arquitetura\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\letic\Desktop\Unimar\Arquitetura\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\Users\letic\Desktop\Unimar\Arquitetura\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\net8.0\Sprache.dll
+C:\Users\letic\Desktop\Unimar\Arquitetura\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\net8.0\RabbitMQ.Publisher.sourcelink.json

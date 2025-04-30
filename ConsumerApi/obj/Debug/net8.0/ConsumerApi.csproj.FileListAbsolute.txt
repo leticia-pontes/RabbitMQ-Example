@@ -1,6 +1,5 @@
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\bin\Debug\net8.0\appsettings.json
-C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\bin\Debug\net8.0\ConsumerApi.staticwebassets.endpoints.json
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\bin\Debug\net8.0\ConsumerApi.exe
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\bin\Debug\net8.0\ConsumerApi.deps.json
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\bin\Debug\net8.0\ConsumerApi.runtimeconfig.json
@@ -38,7 +37,6 @@ C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\bin\Debug\net8.0\Swashbuck
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\bin\Debug\net8.0\System.ClientModel.dll
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\bin\Debug\net8.0\System.Drawing.Common.dll
-C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\bin\Debug\net8.0\System.Formats.Asn1.dll
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\bin\Debug\net8.0\System.Memory.Data.dll
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\bin\Debug\net8.0\System.Runtime.Caching.dll
@@ -67,9 +65,7 @@ C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\obj\Debug\net8.0\ConsumerA
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\obj\Debug\net8.0\scopedcss\bundle\ConsumerApi.styles.css
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\obj\Debug\net8.0\staticwebassets\msbuild.ConsumerApi.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\obj\Debug\net8.0\staticwebassets\msbuild.ConsumerApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ConsumerApi.props
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConsumerApi.props
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConsumerApi.props
@@ -80,3 +76,4 @@ C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\obj\Debug\net8.0\refint\Co
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\obj\Debug\net8.0\ConsumerApi.pdb
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\obj\Debug\net8.0\ConsumerApi.genruntimeconfig.cache
 C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\obj\Debug\net8.0\ref\ConsumerApi.dll
+C:\Users\letic\Desktop\Unimar\Arquitetura\ConsumerApi\obj\Debug\net8.0\ConsumerApi.sourcelink.json

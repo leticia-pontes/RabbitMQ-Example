@@ -1,14 +1,17 @@
 ﻿using RabbitMQ.Client;
 using System;
 using System.Text;
+using DotNetEnv;
 
 class Publisher
 {
     static void Main(string[] args)
     {
+        Env.Load();
+        
         var factory = new ConnectionFactory
         {
-            Uri = new Uri("")
+            Uri = new Uri(Environment.GetEnvironmentVariable("RABBITMQ_URI")),
         };
         
         using var connection = factory.CreateConnection();

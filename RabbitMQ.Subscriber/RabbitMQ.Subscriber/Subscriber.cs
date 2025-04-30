@@ -5,14 +5,17 @@ using System.Net.Http;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
+using DotNetEnv;
 
 class Subscriber
 {
     static void Main(string[] args)
     {
+        Env.Load(".env");
+        
         var factory = new ConnectionFactory()
         {
-            Uri = new Uri("")
+            Uri = new Uri(Environment.GetEnvironmentVariable("RABBITMQ_URI")),
         };
         
         using var connection = factory.CreateConnection();
