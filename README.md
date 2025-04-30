@@ -9,7 +9,15 @@ Este projeto demonstra uma solução com **RabbitMQ** para comunicação entre s
 
 ## 🚀 Como Executar
 
-OBS.: inclua sua URI do RabbitMQ (amqps) nas classes Publisher.cs e Subscriber.cs.
+> Observação:
+Inclua sua URI do RabbitMQ (protocolo amqps) no arquivo `.env`.
+Esse arquivo deve ser colocado dentro do diretório `bin/Debug/net8.0/`, que é onde o executável da aplicação é gerado.
+>
+> Exemplo do `.env`:
+> ```env
+> RABBITMQ_URI=amqps://user123:abcDEF456@lion.rmq.cloudamqp.com/user123
+> # Ver https://www.cloudamqp.com/ para saber mais
+> ```
 
 1. **Inicie a API** (`ConsumerApi`), que estará ouvindo requisições para salvar os dados no banco.
 2. **Inicie o Subscriber** (`RabbitMQ.Subscriber`), que ficará escutando a fila RabbitMQ e enviando os dados para a API.
