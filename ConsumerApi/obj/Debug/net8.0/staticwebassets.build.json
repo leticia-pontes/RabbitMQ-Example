@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ucGEI/roVWvYUyR6BDieg3s+EktYGdOeRM/SLPkMuis=",
+  "Source": "ConsumerApi",
+  "BasePath": "_content/ConsumerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
